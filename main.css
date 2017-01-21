@@ -49,6 +49,58 @@ h2 ~ p { /* selects sibling tags */
 }
 
 
+/* hover on anchor tags */
+a:hover {
+	font-size: 50px;
+}
+
+
+/* active */
+a:active {
+	background-color: green;
+}
+
+/* focus */ 
+input:focus {
+	background-color: yellow;
+}
+
+
+/* nth-child */
+.sub-div li:nth-child(2n+1) {
+	border: pink 5px solid;
+}
+
+.sub-div li:nth-child(2n) {
+	border: blue 5px solid;
+}
+
+
+.sub-div li:nth-of-type(2n) {
+	color: blue;
+}
+
+section p:nth-child(2) {
+	color: red;
+}
+
+section p:nth-of-type(2) {
+	color: orange;
+}
+
+/* before */
+/* creates space before the specified element */
+#main-div-1::before {
+	content: "\201C";
+	font-size: 60px;
+	font-weight: bold;
+	color: purple;
+}
+
+#main-div-1::after {
+	content: "$$$$$$";
+}
+
 
 
 
