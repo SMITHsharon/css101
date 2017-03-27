@@ -1,1 +1,37 @@
-# README file for css101 branch
+# css Introduction :: Basics
+
+### Project Description 
+This is a simple webpage created in class as a means to demonstrate `css` styling capabilities.  
+
+
+#### Class Demo css101 Screen 1
+![Class Demo css101 Screen 1](...)
+
+#### Class Demo css101 Screen 2 
+![Class Demo css101 Screen 2 (gifs)](...)
+
+
+### Project Specs
+#### `css` basic
+This webpage was coded in class as a means to demonstrate and discuss basic `css` stylings, including simple nth-child traversals. 
+
+
+### Technologies Used
+- `html`
+- `css`
+
+
+### How To View The Screen 
+#### (Node must be installed on your machine):
+```
+git clone https://github.com/SMITHsharon/css101.git
+cd css101
+npm install http-server -g
+http-server -p 8080
+```
+
+This will show in your browser at: `http://localhost:8080`
+
+
+### Contributor
+[Sharon Smith](https://github.com/SMITHsharon)
