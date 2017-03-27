@@ -5,10 +5,10 @@ This is a simple webpage created in class as a means to demonstrate `css` stylin
 
 
 #### Class Demo css101 Screen 1
-![Class Demo css101 Screen 1](...)
+![Class Demo css101 Screen 1](https://raw.githubusercontent.com/SMITHsharon/css101/screens/screens/css101%20Screen%20Grab%20on%20Launch.png)
 
 #### Class Demo css101 Screen 2 
-![Class Demo css101 Screen 2 (gifs)](...)
+![Class Demo css101 Screen 2 (gifs)](https://raw.githubusercontent.com/SMITHsharon/css101/screens/screens/css101%20Screen%20Grab%20on%20Scroll.png)
 
 
 ### Project Specs
