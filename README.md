@@ -12,7 +12,7 @@ This is a simple webpage created in class as a means to demonstrate `css` stylin
 
 
 ### Project Specs
-#### `css` basic
+#### `css` basics
 This webpage was coded in class as a means to demonstrate and discuss basic `css` stylings, including simple `nth-child` traversals. 
 
 
