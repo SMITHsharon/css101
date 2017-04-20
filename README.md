@@ -13,7 +13,7 @@ This is a simple webpage created in class as a means to demonstrate `css` stylin
 
 ### Project Specs
 #### `css` basic
-This webpage was coded in class as a means to demonstrate and discuss basic `css` stylings, including simple nth-child traversals. 
+This webpage was coded in class as a means to demonstrate and discuss basic `css` stylings, including simple `nth-child` traversals. 
 
 
 ### Technologies Used
@@ -26,11 +26,9 @@ This webpage was coded in class as a means to demonstrate and discuss basic `css
 ```
 git clone https://github.com/SMITHsharon/css101.git
 cd css101
-npm install http-server -g
 http-server -p 8080
+This will show in your browser at: http://localhost:8080
 ```
-
-This will show in your browser at: `http://localhost:8080`
 
 
 ### Contributor
